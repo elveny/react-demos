@@ -8,6 +8,9 @@ const app = dva({
      products: [
          { name: 'dva', id: 1 },
          { name: 'antd', id: 2 },
+         { name: 'antd1', id: 3 },
+         { name: 'antd2', id: 4 },
+         { name: 'antd3', id: 5 },
        ],
      },
 });
