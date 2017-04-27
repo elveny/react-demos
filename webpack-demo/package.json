@@ -1,0 +1,26 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "this is webpack test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/elveny/react-demos/webpack-demo.git"
+  },
+  "keywords": [
+    "webpack",
+    "js",
+    "moudle"
+  ],
+  "author": "elveny",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^2.4.1"
+  },
+  "scripts": {
+    "start": "webpack"
+  }
+}
