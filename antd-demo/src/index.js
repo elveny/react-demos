@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import Antd_Button from './antd-components/Antd_Button';
 import './index.css';
 
 ReactDOM.render(
-  <App />,
+  <Antd_Button />,
   document.getElementById('root')
 );
