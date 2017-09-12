@@ -5,7 +5,7 @@
 import React from 'react';
 import { Button } from 'antd';
 
-class Antd_Button extends React.Component {
+class AntdButton extends React.Component {
     render() {
         return (
             <div>
@@ -34,4 +34,4 @@ class Antd_Button extends React.Component {
     }
 }
 
-export default Antd_Button;
+export default AntdButton;
